@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+pycryptodome
+APScheduler
+requests
+gunicorn
