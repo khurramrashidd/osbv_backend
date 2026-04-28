@@ -2,5 +2,6 @@ Flask
 Flask-Cors
 pycryptodome
 APScheduler
+cryptography
 requests
 gunicorn
